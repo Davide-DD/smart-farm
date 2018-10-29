@@ -1,6 +1,6 @@
 # SmartFarm
 
-An app prototype designed as a solution for challenge 2 of Digital Fields Hack, an hackathon competition held on 27 and 28 October 2018 in Bologna (Italy). For further information about this event, refer to **Hackathon Infos** folder.
+An app prototype designed as a solution for challenge 2 of Digital Fields Hack, an hackathon competition held on 27 and 28 October 2018 in Bologna (Italy). For further information about this event, refer to [**Hackathon Infos**](https://github.com/MrOverflOOw/SmartFarm/tree/master/Hackathon%20Infos) folder.
 
 ## Challenge 2
 
