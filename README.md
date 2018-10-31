@@ -30,4 +30,4 @@ Our solution is a prototype of an app with the Justinmind prototyping software. 
 
 SmartFarm is published under **GNU General Public License v3.0**.
 
-Copyright (©) **Andrea Nicholas De Montis** & **Enio Di Mauro** & [**Davide Di Donato**](https://github.com/MrOverflOOw) & **Emanuele Grimaldi** & [**Giacomo Nasi**](https://github.com/GiacomoNasi).
+Copyright (©) **Andrea Nicholas De Montis** & [**Davide Di Donato**](https://github.com/MrOverflOOw) & **Enio Di Mauro** & **Emanuele Grimaldi** & [**Giacomo Nasi**](https://github.com/GiacomoNasi).
